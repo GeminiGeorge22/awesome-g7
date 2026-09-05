@@ -1,4 +1,4 @@
-# Awesome G7 [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome G7 [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -77,9 +77,9 @@ The G7 consists of Canada, France, Germany, Italy, Japan, the United Kingdom, an
 
 ## Related Awesome Lists
 
-- [Awesome Climate Change](https://github.com/awesomelistsio/awesome-climate-change)
-- [Awesome Open Science](https://github.com/awesomelistsio/awesome-open-science)
-- [Awesome Political Science](https://github.com/awesomelistsio/awesome-political-science)
+- [Awesome Climate Change](https://github.com/brandonhimpfen/awesome-climate-change)
+- [Awesome Open Science](https://github.com/brandonhimpfen/awesome-open-science)
+- [Awesome Political Science](https://github.com/brandonhimpfen/awesome-political-science)
   
 ## Contribute
 
